@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+auto_clicker_config.json
+build/
+dist/
+*.spec
+*.exe
+.venv/
+venv/
+.DS_Store
